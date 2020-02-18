@@ -88,12 +88,16 @@
 .teamsetting{
 	margin-top: 50px !important;
 }
-.footer{
-	height: 50px;
+.loaction h1{
+	font-size: 50px;
+	font-weight: bold;
+	text-align:  center;
 }
-.footer h6{
-	line-height: 50px;
+.loaction p{
+	font-size: 18px;
+	text-align:  center;
 }
+
 
 @media(min-width: 992px){
 
